@@ -2,7 +2,7 @@ import os
 import re
 import time
 from multiprocessing import Process
-from multiprocessing.queues import Queue
+from multiprocessing import Queue
 from time import sleep
 
 import requests
